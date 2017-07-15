@@ -1,0 +1,15 @@
+// import React from 'react';
+// // import {Router, Route} from 'react-router-dom';
+// import { BrowserRouter, Route, Link } from 'react-router-dom'
+
+import App from './App';
+import About from './pages/about';
+
+const Routes = (props) =>{
+	<BrowserRouter {...props}>
+		<Route path="/" component={Home} />
+		<Route path="/about" component={About}/>
+	</BrowserRouter>
+
+};
+
