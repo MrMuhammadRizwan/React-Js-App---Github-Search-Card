@@ -1,4 +1,4 @@
-React Js-App Github Search Card
+React Js App - Github Search Card
 
 Demo: https://www.dropbox.com/s/3g6z0q3xk6lvxh6/Github-user-search-react-js-app.gif?dl=0
 
